@@ -1,0 +1,23 @@
+D:\MyProject\DemoCSharp\FtpClient\bin\Debug\FtpClient.exe.config
+D:\MyProject\DemoCSharp\FtpClient\bin\Debug\FtpClient.exe
+D:\MyProject\DemoCSharp\FtpClient\bin\Debug\FtpClient.pdb
+D:\MyProject\DemoCSharp\FtpClient\obj\Debug\FtpClient.MainForm.resources
+D:\MyProject\DemoCSharp\FtpClient\obj\Debug\FtpClient.Properties.Resources.resources
+D:\MyProject\DemoCSharp\FtpClient\obj\Debug\FtpClient.csproj.GenerateResource.Cache
+D:\MyProject\DemoCSharp\FtpClient\obj\Debug\FtpClient.exe
+D:\MyProject\DemoCSharp\FtpClient\obj\Debug\FtpClient.pdb
+D:\MyProject\DemoCSharp\FtpClient\obj\Debug\FtpClient.csprojResolveAssemblyReference.cache
+D:\MyProject\DemoCSharp\FtpClient\obj\Debug\FtpClient.AboutForm.resources
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\bin\Debug\FtpClient.exe.config
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\obj\Debug\FtpClient.exe
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\obj\Debug\FtpClient.pdb
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\bin\Debug\FtpClient.exe
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\bin\Debug\FtpClient.pdb
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\obj\Debug\FtpClient.csprojResolveAssemblyReference.cache
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\obj\Debug\FtpClient.AboutForm.resources
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\obj\Debug\FtpClient.MainForm.resources
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\obj\Debug\FtpClient.Properties.Resources.resources
+E:\C# 下载的源码\01 FTP Code\FtpClient\FtpClient\obj\Debug\FtpClient.csproj.GenerateResource.Cache
+E:\C# 下载的源码\01 FTP Code\FtpClient\bin\Debug\FtpClient.exe.config
+E:\C# 下载的源码\01 FTP Code\FtpClient\obj\Debug\FtpClient.exe
+E:\C# 下载的源码\01 FTP Code\FtpClient\obj\Debug\FtpClient.pdb
